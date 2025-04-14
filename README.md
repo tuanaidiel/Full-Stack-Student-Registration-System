@@ -10,6 +10,7 @@ A web application that allows administrators to manage student profiles includin
 
 ### Frontend
 - **React.js** — For building a dynamic, responsive, and interactive UI.
+- **Axios** — For API communication
 
 ### Backend
 - **.NET** — Provides RESTful APIs and server-side logic.

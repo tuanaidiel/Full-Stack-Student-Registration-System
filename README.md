@@ -13,7 +13,7 @@ A web application that allows administrators to manage student profiles includin
 - **Axios** — For API communication
 
 ### Backend
-- **.NET** — Provides RESTful APIs and server-side logic.
+- **.NET (ASP.NET Core)** — Provides RESTful APIs and server-side logic.
 - **Entity Framework (EF)** — ORM tool to interact with SQL Server database easily.
 
 ### Database

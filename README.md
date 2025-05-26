@@ -64,6 +64,7 @@ dotnet ef database update
 
 ## ✨ Future Improvements
 
-- Authentication system (Admin login)
-- Filtering/searching students
-- Pagination for large datasets
+- 🔐 Authentication & Authorization: Implement a secure login system
+- 🤖 AI-powered Chatbot Assistant: Integrate an AI chatbot to provide real-time assistance to users
+- 📄 Multi-Page Application Structure: Refactor the project into a multi-page layout for better organization and user navigation
+- 🌐 Deployment: Deploy the system to a cloud platform such as Vercel, Netlify, or Azure App Services to make it accessible online. This will involve setting up CI/CD pipelines for streamlined deployment and updates.

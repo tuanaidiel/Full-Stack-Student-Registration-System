@@ -64,11 +64,14 @@ dotnet ef database update
 
 ## ✨ Future Improvements
 
-- 🔐 Authentication & Authorization
-  Implement a secure login system.
-- 🤖 AI-powered Chatbot Assistant
-  Integrate an AI chatbot to provide real-time assistance to users, including answering frequently asked questions, guiding users through the registration process.
-- 📄 Multi-Page Application Structure
-  Refactor the project into a multi-page layout for better organization and user navigation. This will improve scalability and user experiences.
-- 🌐 Deployment
-  Deploy the system to a cloud platform such as Vercel, Netlify, or Azure App Services to make it accessible online.
+🔐 Authentication & Authorization
+Implement a secure login system to differentiate access between admin and student users. Role-based access control (RBAC) will be introduced to ensure sensitive features are restricted to authorized users only.
+
+🤖 AI-powered Chatbot Assistant
+Integrate an AI chatbot to provide real-time assistance to users, including answering frequently asked questions, guiding users through the registration process, and improving user engagement.
+
+📄 Multi-Page Application Structure
+Refactor the project into a multi-page layout for better organization and user navigation. This will improve scalability and enable a smoother, modular user experience.
+
+🌐 Deployment
+Deploy the system to a cloud platform such as Vercel, Netlify, or Azure App Services to make it accessible online. This will involve setting up CI/CD pipelines for streamlined deployment and updates.

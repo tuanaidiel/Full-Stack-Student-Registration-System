@@ -65,6 +65,10 @@ dotnet ef database update
 ## ✨ Future Improvements
 
 - 🔐 Authentication & Authorization
+  Implement a secure login system.
 - 🤖 AI-powered Chatbot Assistant
+  Integrate an AI chatbot to provide real-time assistance to users, including answering frequently asked questions, guiding users through the registration process.
 - 📄 Multi-Page Application Structure
+  Refactor the project into a multi-page layout for better organization and user navigation. This will improve scalability and user experiences.
 - 🌐 Deployment
+  Deploy the system to a cloud platform such as Vercel, Netlify, or Azure App Services to make it accessible online.
